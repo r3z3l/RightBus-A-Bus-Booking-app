@@ -22,3 +22,4 @@ DATABASE_URL=YOUR_DATABASE_URI
 ```
 
 # RightBus-A-Bus-Booking-app
+# RightBus-A-Bus-Booking-app
